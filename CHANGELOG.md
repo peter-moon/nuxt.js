@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.4.4](https://github.com/nuxt/nuxt.js/compare/v2.4.3...v2.4.4) (2019-02-25)
+
+
+### Bug Fixes
+
+* bundle resources other than js(x)/json in node_modules ([#4913](https://github.com/nuxt/nuxt.js/issues/4913)) ([71a70fe](https://github.com/nuxt/nuxt.js/commit/71a70fe))
+* dont force exit when it was explicitly disabled ([#4973](https://github.com/nuxt/nuxt.js/issues/4973)) ([4b82aa9](https://github.com/nuxt/nuxt.js/commit/4b82aa9))
+* **deps:** update serve-placeholder and esm ([#4970](https://github.com/nuxt/nuxt.js/issues/4970)) ([111455f](https://github.com/nuxt/nuxt.js/commit/111455f))
+* **hotfix:** preload modern resource in spa modern mode ([#5043](https://github.com/nuxt/nuxt.js/issues/5043)) ([3516580](https://github.com/nuxt/nuxt.js/commit/3516580))
+* **vue-app:** fix `asyncData` memory leak on client-side ([#4966](https://github.com/nuxt/nuxt.js/issues/4966)) ([4086800](https://github.com/nuxt/nuxt.js/commit/4086800))
+* **vue-app:** fix `getNuxtChildComponents` method ([#4969](https://github.com/nuxt/nuxt.js/issues/4969)) ([dbf7099](https://github.com/nuxt/nuxt.js/commit/dbf7099))
+
+
+### Features
+
+* show warning on forced exit ([#4958](https://github.com/nuxt/nuxt.js/issues/4958)) ([3d2deac](https://github.com/nuxt/nuxt.js/commit/3d2deac))
+
+
+
+
+
 ## [2.4.3](https://github.com/nuxt/nuxt.js/compare/v2.4.2...v2.4.3) (2019-02-06)
 
 
